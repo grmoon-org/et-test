@@ -4,7 +4,6 @@
    },
    "templates":[
       {
-         "path":"python/django/python-guestbook",
          "name":"Guestbook Template ABC DEF",
          "description":"some description here...",
          "languages":[
