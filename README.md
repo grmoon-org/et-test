@@ -5,7 +5,7 @@ This repository is an example Custom Template Repository that can be used with t
 ## Contents
 ### .template
 The .template directory is where your templates.json file belongs. This file describes the contents of your repository so that Cloud Code knows where to look for your templates. It should look something like the following:
-```json
+```
 {
     "metadata": {
         "version": "1"
